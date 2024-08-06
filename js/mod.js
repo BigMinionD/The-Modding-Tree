@@ -2,7 +2,7 @@ let modInfo = {
 	name: "The Multiversal Tree",
 	id: "multiverse",
 	author: "BigMinionD",
-	pointsName: "points",
+	pointsName: "Shards",
 	modFiles: ["layers.js", "tree.js"],
 
 	discordName: "",
@@ -19,10 +19,9 @@ let VERSION = {
 
 let changelog = `<h1>Changelog:</h1><br>
 	<h3>v0.0</h3><br>
-		- Added things.<br>
-		- Added stuff.`
+		- Started development.<br>`
 
-let winText = `Congratulations! You have reached the end and beaten this game, but for now...`
+let winText = `The Multiverse is yours to conquer...`
 
 // If you add new functions anywhere inside of a layer, and those functions have an effect when called, add them here.
 // (The ones here are examples, all official functions are already taken care of)
